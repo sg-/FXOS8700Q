@@ -20,5 +20,8 @@
       "type": "Apache-2.0"
     }
   ],
-  "dependencies": {}
+  "dependencies": {
+    "MotionSensor": "^0.0.1",
+    "mbed-drivers": "^0.0.1"
+  }
 }
