@@ -1,0 +1,24 @@
+{
+  "name": "fxos8700q",
+  "version": "0.0.1",
+  "description": "Device driver for the Freescale FXOS8700Q combo motion sensor (accel + magento)",
+  "keywords": [
+    "Freescale",
+    "FXOS8700Q",
+    "Magentometer",
+    "Accelerometer"
+  ],
+  "author": "Sam Grove",
+  "repository": {
+    "url": "https://github.com/sg-/fxos8700q.git",
+    "type": "git"
+  },
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {}
+}
