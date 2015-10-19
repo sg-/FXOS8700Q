@@ -21,7 +21,7 @@
     }
   ],
   "dependencies": {
-    "MotionSensor": "^0.0.1",
-    "mbed-drivers": "^0.0.1"
+    "mbed-drivers": "*",
+    "motionsensor": "*"
   }
 }

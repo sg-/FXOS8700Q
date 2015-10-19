@@ -27,7 +27,7 @@ void static inline normalize_14bits(int16_t &x)
 
 float static inline tof(int16_t val)
 {
-    return val / 4096.0f;
+    return static_cast<float>(val / 4096.0f);
 }
 
 FXOS8700Q::FXOS8700Q(I2C &i2c, uint8_t addr)

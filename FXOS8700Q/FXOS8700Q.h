@@ -18,7 +18,7 @@
 #define FXOS8700Q_H
  
 #include "mbed/mbed.h"
-#include "motionsensor/motionsensor.h"
+#include "MotionSensor/MotionSensor.h"
  
 // FXOS8700CQ I2C address
 #define FXOS8700CQ_SLAVE_ADDR0 (0x1E<<1) // with pins SA0=0, SA1=0
